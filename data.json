@@ -1,0 +1,54 @@
+{
+	"basicdetails":{
+		"image":"Hydrangeas.jpg",
+		"name":"MANISHA.BATTULA",
+		"email":"manishabattula5b4",
+		"phone":"8897029568",
+		"address":"thalamalla(prakasam)"
+	},
+	"education":[
+		{
+			"course":"B.tech(c.s.e)",
+			"college":"vignan nirula",
+			"percantage":"77%"
+
+		},
+		{
+			"course":"intermediate(m.p.c)",
+			"college":"sri chaitanya jr college",
+			"percantage":"76%"
+		
+					
+		},
+		{
+			"course":"ssc",
+			"college":"vijetha",
+			"percantage":"7.9"
+		}
+	],
+	"skills":[
+		{
+			"name":"Operating System",
+			"value":"Window,Linux,MAC"
+		},
+		{
+			"name":"Programing Language",
+			"value":"C,C++,Java,Python"
+		}
+	],
+	"carrier":{
+		"ca":"my goal is became a software enigneer"
+ 
+	},
+	"achivements":[
+		"I achive  80% in my B.TECH",
+		"I achive  90% in my SSC"
+	],
+	"description":{
+		"de":"here we learn css,html,tags,json"
+	}
+		
+	
+}
+		
+	
